@@ -7,7 +7,7 @@
 - [x] Easily To Configure
 
 Binds:  
-I - Reduce The Size Of Hitboxes
+I - Reduce The Size Of Hitboxes  
 K - Add Size To Hitboxes  
 P - Turn ON Panic
 
